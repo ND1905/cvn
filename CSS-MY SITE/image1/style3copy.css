@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: 0;
+    
+}
+.top-container{
+    background-color: aquamarine;
+    /*height: 200px;
+    width: 200px;
+    /*text-align: center;
+    /*display: inline-block;
+    position: relative;
+    left: 400px;
+    /*padding: 20px;
+    border: solid 10px;
+    border-color: black;*/
+}
+.middle-container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    /*display: inline-block;
+    position: relative;
+    left: 200px;
+    /*margin-left: 258px;
+    border: solid 20px;
+    border-color: black;*/
+}
+.bottom-container{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    /*display: inline-block;for making th boxes in the same line
+    position: relative;
+    bottom: 400px;
+    /*margin-left: 498px;
+    border: solid 10px;
+    border-color: black;*/
+    
+}
+h1{
+    margin-top: 0%;
+    margin-bottom: 0px;
+}
+p{
+    margin-bottom: 0px;
+    width: 100px;
+}
+.pro{
+    text-decoration: underline;
+}
